@@ -11,7 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Output
 ```
 ERROR in ./src/$$_gendir/app/app.module.ngfactory.ts
-Module not found: Error: Can't resolve 'jsnlog/Definitions/jl' in 'C:\Users\Horst Zahradnik\Code\JSNLogWebpack\src\$$_gendir\app'
+Module not found: Error: Can't resolve 'jsnlog/Definitions/jl' in 'C:\Users\Name\Code\JSNLogWebpack\src\$$_gendir\app'
  @ ./src/$$_gendir/app/app.module.ngfactory.ts 13:0-44
  @ ./src/main.ts
  @ multi ./src/main.ts
